@@ -1,0 +1,12 @@
+<button (click)="getProduct()"></button>
+<div *ngFor="let item of products">
+    {{item|json}}
+</div>
+
+<div *ngIf="display ; else elsecase1 ">
+<h1>LINK ARCHIVE</h1>
+</div>
+
+<ng-template #elsecase1>
+    <h1>Hello World</h1>
+</ng-template>
