@@ -3,21 +3,6 @@ make it possible
 vanakkam
 
 gojo satoru
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> laster
 
-
-
-
-<<<<<<< HEAD
 geto suguru
-=======
-geto suguru
->>>>>>> 7590570 (Anime)
-=======
->>>>>>> 5752a90 (Laster)
->>>>>>> laster
+
