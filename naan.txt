@@ -3,3 +3,11 @@ make it possible
 vanakkam
 
 gojo satoru
+<<<<<<< HEAD
+=======
+
+
+
+
+geto suguru
+>>>>>>> 7590570 (Anime)
